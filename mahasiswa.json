@@ -1,0 +1,16 @@
+[
+    {
+        "nama": "haerin",
+        "nim": "2609116041",
+        "prodi": "sistem informasi",
+        "mata kuliah": "pemrograman dasar",
+        "nilai": 85
+    },
+    {
+        "nama": "hadh",
+        "nim": "1279812982",
+        "prodi": "tekkni",
+        "mata kuliah": "konsep sisfor",
+        "nilai": 90
+    }
+]
